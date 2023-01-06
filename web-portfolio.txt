@@ -2,5 +2,5 @@ Muhfuad web portfolio
 - fruit website
 - personal website
 - fylo website
-- snap website
 - ecommerce website
+- membuat company profile website
